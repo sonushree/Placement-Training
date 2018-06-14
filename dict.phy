@@ -1,0 +1,5 @@
+d={"servername":"s","dbname":"d","username":"u","password":"p"}
+d={}
+k="server"
+v="s"
+d[k]=v
